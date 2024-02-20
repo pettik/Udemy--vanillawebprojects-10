@@ -19,7 +19,7 @@ Create beautiful UI to play music stored in the "music folder" using the HTML5 a
     <img src="./img/10_preview.png" alt="Original preview">
 </div>
 
-<!-- 
+
 ## My solution preview
 
 <div style="text-align:center;display:flex; flex-direction:column;justify-content:center;" >
@@ -30,9 +30,6 @@ Create beautiful UI to play music stored in the "music folder" using the HTML5 a
 ## My solution features
 
 - Custom **UI/UX design**
-- Converted to **Czech currency and formatting** 
-
--->
 
 
 # Author
